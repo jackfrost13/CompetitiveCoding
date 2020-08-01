@@ -1,4 +1,5 @@
 *
 !*.*
-*.sh
+!*/
+contest-template.sh
 contestGen.py
